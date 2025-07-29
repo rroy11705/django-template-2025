@@ -1,0 +1,20 @@
+# Core Django
+Django>=5.0,<5.1
+django-environ>=0.11.0
+
+# Django REST Framework
+djangorestframework>=3.14.0
+django-cors-headers>=4.3.0
+
+# Database
+psycopg2-binary>=2.9.7
+dj-database-url>=2.1.0
+
+# Caching
+redis>=5.0.0
+
+# Image processing
+Pillow>=10.0.0
+
+# Utilities
+python-slugify>=8.0.1
